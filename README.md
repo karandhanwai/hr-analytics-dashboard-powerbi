@@ -17,7 +17,7 @@ This Power BI dashboard analyzes employee attrition and workforce trends.
 * Department-wise Analysis
 * Salary Analysis
 * Age Group Analysis
-* KPI Dashboard
+* KPI Dashboard 
 
 ## Skills Demonstrated
 
@@ -25,4 +25,4 @@ This Power BI dashboard analyzes employee attrition and workforce trends.
 * Data Visualization
 * Dashboard Development
 * Business Insights
-* Data Analysis
+* Data Analysis 
